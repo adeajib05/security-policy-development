@@ -7,9 +7,9 @@ This repository illustrates the development and implementation of core security 
 # Key Policies (2025 Standards)
 Each policy is designed to meet modern compliance requirements and operational best practices:
 
-Artificial Intelligence Standard (2025): Guidelines for the ethical and secure use of LLMs, automated decision-making, and data privacy in AI workflows.
-Acceptable Use Standard (2025): Defines the professional and secure boundaries for corporate resource utilization.
-Internet Usage Standard (2025): Protocol for secure web navigation, cloud-service interaction, and remote connectivity.
+- Artificial Intelligence Standard (2025): Guidelines for the ethical and secure use of LLMs, automated decision-making, and data privacy in AI workflows.
+- Acceptable Use Standard (2025): Defines the professional and secure boundaries for corporate resource utilization.
+- Internet Usage Standard (2025): Protocol for secure web navigation, cloud-service interaction, and remote connectivity.
 
 
 Disclaimer: Tech Industries is a fictional entity used for educational and demonstrative purposes.
